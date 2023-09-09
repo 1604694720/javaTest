@@ -43,6 +43,7 @@ public class PersonTest {
         p4=p1;
         System.out.println(p4.name);
     }
+
 }
 class Person{
     //属性
