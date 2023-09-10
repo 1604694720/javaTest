@@ -27,9 +27,8 @@ public class CustomerTest {
     public static void main(String[] args) {
         Customer cust1 = new Customer();
         cust1.eat();
-
+        cust1.sleep(10);
     }
-
 }
 
 //客户类
@@ -51,6 +50,4 @@ class Customer{
     public String getNation(String nation){
         return "我的国际是"+nation;
     }
-
-
 }
