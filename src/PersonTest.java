@@ -42,6 +42,13 @@ public class PersonTest {
         Person p4=new Person();
         p4=p1;
         System.out.println(p4.name);
+
+        //匿名对象
+//        new Person().eat();
+//        new Person().sleep();
+
+        new Person().name="Jon";
+        System.out.println(new Person().name);//null
     }
 
 }
