@@ -1,14 +1,14 @@
 public class Test1 {
     public static void main(String[] args) {
-        Circle circle=new Circle(10);
+        Cir circle=new Cir(10);
         System.out.println(circle.mianji());
 
     }
 }
-class Circle{
+class Cir{
     int r;
     int pai=3;
-    public Circle(int r){
+    public Cir(int r){
         this.r=r;
     }
     public int mianji(){
