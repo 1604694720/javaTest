@@ -1,4 +1,6 @@
-import java.util.Arrays;
+package day1_day9;
+
+import day1_day9.ArrayUtil;
 
 public class ArrayUtilTest {
     public static void main(String[] args) {

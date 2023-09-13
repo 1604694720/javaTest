@@ -1,3 +1,5 @@
+package day1_day9;
+
 import java.util.Arrays;
 
 public class ArrayTest {

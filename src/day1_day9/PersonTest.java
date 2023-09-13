@@ -1,3 +1,5 @@
+package day1_day9;
+
 /*
 一、设计类，设计类的成员
 属性=成员变量=field=域、字段
@@ -44,8 +46,8 @@ public class PersonTest {
         System.out.println(p4.name);
 
         //匿名对象
-//        new Person().eat();
-//        new Person().sleep();
+//        new day1_day9.Person().eat();
+//        new day1_day9.Person().sleep();
 
         new Person().name="Jon";
         System.out.println(new Person().name);//null

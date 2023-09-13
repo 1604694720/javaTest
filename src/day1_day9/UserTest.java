@@ -1,3 +1,5 @@
+package day1_day9;
+
 /*
 类中属性的使用
 

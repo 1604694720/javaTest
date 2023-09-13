@@ -1,3 +1,5 @@
+package day1_day9;
+
 /*
 数组常见异常：
 1.数组角标越界异常：ArrayIndexOutOfBoundsExcetion;
